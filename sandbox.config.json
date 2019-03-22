@@ -1,3 +1,6 @@
 {
-  "template": "next"
+  "template": "next",
+  "container": {
+    "port": 3000
+  }
 }
