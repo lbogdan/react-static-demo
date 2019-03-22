@@ -6,7 +6,7 @@
     "stage": "react-static build --staging",
     "build": "react-static build",
     "bundle": "react-static bundle",
-    "export": "react-static export",
+    "export": "react-static export"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
